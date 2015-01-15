@@ -1,4 +1,6 @@
-#!/usr/bin/perl
+#!/usr/bin/env perl
+#/opt/rosecompiler/libraryVersionFixup/install/perl/5.10.1/bin/perl
+#/usr/bin/perl
 =pod
 
 =head1 NAME
